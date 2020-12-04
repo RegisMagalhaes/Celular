@@ -1,0 +1,13 @@
+C:\Users\samsung\Desktop\Senai\Backend\POOCelular\bin\Debug\netcoreapp3.1\POOCelular.exe
+C:\Users\samsung\Desktop\Senai\Backend\POOCelular\bin\Debug\netcoreapp3.1\POOCelular.deps.json
+C:\Users\samsung\Desktop\Senai\Backend\POOCelular\bin\Debug\netcoreapp3.1\POOCelular.runtimeconfig.json
+C:\Users\samsung\Desktop\Senai\Backend\POOCelular\bin\Debug\netcoreapp3.1\POOCelular.runtimeconfig.dev.json
+C:\Users\samsung\Desktop\Senai\Backend\POOCelular\bin\Debug\netcoreapp3.1\POOCelular.dll
+C:\Users\samsung\Desktop\Senai\Backend\POOCelular\bin\Debug\netcoreapp3.1\POOCelular.pdb
+C:\Users\samsung\Desktop\Senai\Backend\POOCelular\obj\Debug\netcoreapp3.1\POOCelular.csprojAssemblyReference.cache
+C:\Users\samsung\Desktop\Senai\Backend\POOCelular\obj\Debug\netcoreapp3.1\POOCelular.AssemblyInfoInputs.cache
+C:\Users\samsung\Desktop\Senai\Backend\POOCelular\obj\Debug\netcoreapp3.1\POOCelular.AssemblyInfo.cs
+C:\Users\samsung\Desktop\Senai\Backend\POOCelular\obj\Debug\netcoreapp3.1\POOCelular.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\Senai\Backend\POOCelular\obj\Debug\netcoreapp3.1\POOCelular.dll
+C:\Users\samsung\Desktop\Senai\Backend\POOCelular\obj\Debug\netcoreapp3.1\POOCelular.pdb
+C:\Users\samsung\Desktop\Senai\Backend\POOCelular\obj\Debug\netcoreapp3.1\POOCelular.genruntimeconfig.cache
